@@ -1,10 +1,11 @@
 {
   "domain": "gree_cloud",
   "name": "Gree Climate Cloud",
-  "codeowners": ["@davo22"],
+  "codeowners": ["@baptistelaget"],
   "config_flow": true,
   "dependencies": [],
-  "documentation": "https://github.com/davo22/homeassistant-gree-cloud",
+  "documentation": "https://github.com/baptistelaget/homeassistant-gree-cloud",
+  "issue_tracker": "https://github.com/baptistelaget/homeassistant-gree-cloud/issues",
   "iot_class": "cloud_polling",
   "integration_type": "hub",
   "loggers": ["greeclimate"],

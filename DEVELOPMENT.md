@@ -12,7 +12,7 @@
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/davo22/homeassistant-gree-cloud.git
+git clone https://github.com/baptistelaget/homeassistant-gree-cloud.git
 cd homeassistant-gree-cloud
 ```
 

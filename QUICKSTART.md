@@ -16,7 +16,7 @@ Get your cloud-only Gree devices working with Home Assistant in 5 minutes!
 1. Open **HACS** in Home Assistant
 2. Click **Integrations**
 3. Click the **⋮** menu (top right) → **Custom repositories**
-4. Add repository URL: `https://github.com/davo22/homeassistant-gree-cloud`
+4. Add repository URL: `https://github.com/baptistelaget/homeassistant-gree-cloud`
 5. Category: **Integration**
 6. Click **Add**
 7. Find **Gree Climate Cloud** in HACS and click **Download**
@@ -126,7 +126,7 @@ Then say:
 
 - 📖 [Full Documentation](README.md)
 - 🤖 [Example Automations](EXAMPLES.md)
-- 🐛 [Report an Issue](https://github.com/davo22/homeassistant-gree-cloud/issues)
+- 🐛 [Report an Issue](https://github.com/baptistelaget/homeassistant-gree-cloud/issues)
 - 💬 [Troubleshooting Guide](README.md#troubleshooting)
 
 ## Next Steps
